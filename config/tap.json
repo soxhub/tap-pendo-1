@@ -1,0 +1,6 @@
+{
+	"x_pendo_integration_key": "${API_TOKEN}",
+	"start_date": "2019-01-01 14:09:48.3312-07",
+	"period": "dayRange",
+	"lookback_window": 10
+}
